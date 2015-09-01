@@ -1,0 +1,20 @@
+{
+  "name": "switcher",
+  "version": "0.0.0",
+  "homepage": "",
+  "private": false,
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "2.1.0",
+    "lodash": "~2.4",
+    "bacon": "latest",
+    "pointfree": "DrBoolean/pointfree-fantasy",
+    "ramda": "~0.17.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
